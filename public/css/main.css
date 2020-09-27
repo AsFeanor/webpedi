@@ -1,0 +1,94 @@
+.navbar{
+    background-color: rgba(63, 66, 194, 0.863);
+}
+.nav-link{
+    font-weight: bold;
+    font-style: normal;
+    font-size: 14px;
+}
+.nav-icons{
+    position: relative;
+    left: -360px;
+    font-weight: bolder;
+    color: whitesmoke;
+    font-size: larger;
+    margin-right: 1%;
+}
+.selector-for-some-widget {
+    box-sizing: content-box;
+}
+.box{
+    border-radius: 2%;
+}
+.resim-ici{
+    position: relative;
+}
+.resim-ici-link{
+    font-size: 36px;
+    font-weight: bold;
+    position: absolute;
+    left: 8%;
+    bottom: 100%;
+    color: white;
+    margin-bottom: 12%;
+}
+.resim-ici-yazi{
+    color: white;
+    font-size: small;
+    font-weight: normal;
+    text-decoration: none;
+    position: absolute;
+    left: 8%;
+    bottom: 100%;
+    margin-bottom: 8%;
+}
+.resim-ici-link2{
+    font-size: large;
+    font-weight: bold;
+    position: absolute;
+    left: 6%;
+    bottom: 90%;
+    color: white;
+    margin-bottom: 5%;
+}
+.bookmark2{
+    position: absolute;
+    left: 11%;
+    bottom: 3%;
+    color: white;
+}
+.facebook-followers{
+    background-color: rgb(77, 96, 180);
+    width: 400px;
+    height: 25px;
+}
+.twitter-social{
+    background-color: rgb(7, 159, 230);
+}
+.card-body-p{
+    position: relative;
+    right: -5px;
+    top: -12px;
+    color: whitesmoke;
+    font-weight: bold;
+}
+.son-teknoloji{
+    width: 155px;
+    height: 115px;
+    border-radius: 10%;
+    margin-bottom: 6px;
+}
+.son-teknoloji-content{
+    width: 10rem;
+    font-size: .92em;
+    color: #333;
+}
+h1.resim-ici-link:hover{
+    text-decoration: underline;
+}
+h1.resim-ici-link2:hover{
+    text-decoration: underline;
+}
+.sosyal:hover{
+
+}
