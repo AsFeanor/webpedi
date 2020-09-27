@@ -1,14 +1,18 @@
 module.exports = {
-  root: true,
-  env: {
-    node: true
-  },
+  plugins: ['vue'], // enable vue plugin
   extends: ["plugin:vue/essential", "eslint:recommended", "@vue/prettier"],
-  parserOptions: {
-    parser: "babel-eslint"
-  },
   rules: {
-    "no-console": process.env.NODE_ENV === "production" ? "warn" : "off",
-    "no-debugger": process.env.NODE_ENV === "production" ? "warn" : "off"
+    "no-underscore-dangle": 'off',
+    "max-len": ["error", { "code": 300 }],
+    "linebreak-style": 0,
+    'import/no-cycle': 'off',
+    'no-param-reassign': 'off',
+    'no-throw-literal': 'off',
+  },
+  "parserOptions": {
+    "parser": "babel-eslint",
+  },
+  "globals": {
+    "$": true,
   }
 };
