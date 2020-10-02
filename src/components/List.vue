@@ -2,11 +2,8 @@
   <div class="col-lg-8" id="List">
     <template v-for="data in myJson">
       <ListItem
-        :key="data._id"
+        :key="data.id"
         :data="data"
-        :picture="data.picture"
-        :title="data.title"
-        :description="data.description"
       >
       </ListItem>
     </template>
