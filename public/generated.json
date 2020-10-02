@@ -1,24 +1,24 @@
 [
   {
-    "_id": "5f719331ef907d3ea8742186",
+    "id": 1,
     "picture": "http://placehold.it/1000x524",
     "title": "id labore quis in aliqua",
     "description": "Laborum nulla voluptate cupidatat irure sint nisi adipisicing eiusmod quis enim aute eiusmod nisi sint."
   },
   {
-    "_id": "5f719331e2886fb3b7ce8afc",
+    "id": 2,
     "picture": "http://placehold.it/1000x524",
     "title": "laborum nostrud esse dolor",
     "description": "Nulla id pariatur pariatur sunt consequat aliqua fugiat reprehenderit aliqua eiusmod ullamco."
   },
   {
-    "_id": "5f71933198b89f52b53e7b2d",
+    "id": 3,
     "picture": "http://placehold.it/1000x524",
     "title": "et fugiat pariatur magna ea nulla volup",
     "description": "Quis minim nostrud occaecat id velit consectetur et tempor minim consectetur aliqua deserunt. Esse dolor labore pariatur aliqua consequat."
   },
   {
-    "_id": "5f719331d92381a1bd120458",
+    "id": 4,
     "picture": "http://placehold.it/1000x524",
     "title": "eu dolore officia eiusmod ea aliquip ut",
     "description": "Sint non eiusmod reprehenderit Lorem minim."
